@@ -61,13 +61,14 @@ This project presents a comprehensive sales analysis dashboard developed in **Mi
 
 ---
 
-## 📁 File Structure
+## 📎 Files Included
 
-📦 Super-Store-Sales-Dashboard
-┣ 📊 SuperStore_Dashboard.xlsx
-┣ 📸 screenshots/
-┃ ┗ dashboard_view.png
-┗ 📄 README.md
+| File | Description |
+|------|-------------|
+| `Superstore Data` | Data For this Project |
+| `Sales Dashboard Image` | Screenshot of Full Dashboard |
+| `Dashboard` | Dashboard of the Analysis |
+| `README.md` | This project description file |
 
 ---
 
@@ -85,13 +86,15 @@ This project presents a comprehensive sales analysis dashboard developed in **Mi
 If you have any suggestions, feedback, or want to collaborate:
 
 **Ritesh Zambare**  
+📍 Mumbai University | BE - IT
 📧 [riteshrzambare1234@gmail.com]  
 🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://github.com/Riteshhh04))  
-
+📫 Open to internships and collaborations in Data Analytics & Data Science
 ---
 
-## ⭐ Acknowledgments
-
-Inspired by real-world business reporting needs. Sample data adapted for learning purposes.
+## ✅ How to Use
+1. Download the `.xlxs` file.
+2. Open in **Microsoft Excel**.
+3. Use the filters (Region & Year) to explore interactive views.
 
 
